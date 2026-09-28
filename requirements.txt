@@ -1,0 +1,2 @@
+# Deliberately vulnerable fixture; never install.
+requests==2.31.0
